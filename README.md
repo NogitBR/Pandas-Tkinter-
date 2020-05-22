@@ -10,5 +10,3 @@ Introduction to Pandas and Tkinter in the same project
 ## Requirements: 
   - Pandas 
   `pip install pandas`
-  - Datetime
-  `pip install DateTime`
